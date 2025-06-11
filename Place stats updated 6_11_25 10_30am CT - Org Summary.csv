@@ -1,0 +1,39 @@
+Organization,Users Registered,Views,Saves,Archives,Underwritten,Strategies Created,Imported Feeds,Import Files,Import Sessions,Total Unique Sessions
+Chase_Wright_Team,5,6,1,0,1,1,1,2,2,10
+Ken_Hoover_Team,4,38,0,1,13,1,0,0,0,30
+Marc_White_Team,5,26,0,0,1,1,0,0,0,5
+Amanda_Pohlman_Team,3,36,0,0,0,1,0,0,0,8
+Matt_Chase_Team,2,5,0,1,0,0,0,0,0,5
+Brian_Gubernick_Team,1,0,0,0,0,0,0,0,0,0
+Lisa_Archer_Team,3,2,0,0,0,0,0,0,0,2
+Total,23,113,1,2,15,4,1,2,2,60
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+By User,,,,,,,,,,
+Org,User,Views,Saves,Archives,Underwritten,Strategies Created (only org-level),Imported Feeds,Import Files,Import Sessions,Total Unique Sessions
+Chase_Wright_Team,Dustin Kimberly,0,0,0,0,,0,0,0,0
+Chase_Wright_Team,Jeni Thomas,0,0,0,0,,0,0,0,0
+Chase_Wright_Team,Rick Venetico,0,0,0,0,,0,0,0,0
+Chase_Wright_Team,Chase Wright,6,1,0,1,,1,2,2,10
+Chase_Wright_Team,Chase Wright2,0,0,0,0,,0,0,0,0
+Ken_Hoover_Team,Heythem Homes,1,0,0,0,,0,0,0,1
+Ken_Hoover_Team,Ben Bond,4,0,0,2,,0,0,0,3
+Ken_Hoover_Team,Terry Mack,15,0,1,7,,0,0,0,15
+Ken_Hoover_Team,Ken Hoover,18,0,0,4,,0,0,0,11
+Marc_White_Team,cole deutschman,21,0,0,1,,0,0,0,3
+Marc_White_Team,Amanda Caruso,0,0,0,0,,0,0,0,0
+Marc_White_Team,Marc White,0,0,0,0,,0,0,0,0
+Marc_White_Team,Jay White,4,0,0,0,,0,0,0,1
+Marc_White_Team,Greg King,1,0,0,0,,0,0,0,1
+Amanda_Pohlman_Team,Amanda Pohlman,20,0,0,0,,0,0,0,3
+Amanda_Pohlman_Team,Cory Kippen,7,0,0,0,,0,0,0,3
+Amanda_Pohlman_Team,Laura Babka,9,0,0,0,,0,0,0,2
+Matt_Chase_Team,Christopher Chase,3,0,0,0,,0,0,0,3
+Matt_Chase_Team,Matt Chase,2,0,1,0,,0,0,0,2
+Brian_Gubernick_Team,Brian Gubernick,0,0,0,0,,0,0,0,0
+Lisa_Archer_Team,Beverly Thomas,1,0,0,0,,0,0,0,1
+Lisa_Archer_Team,Lisa Archer,1,0,0,0,,0,0,0,1
+Lisa_Archer_Team,Stephen Hart,0,0,0,0,,0,0,0,0
+Total,23,113,1,2,15,,1,2,2,60
